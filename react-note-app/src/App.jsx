@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react'
 
 import HomePage from './pages/HomePage'
 import { Route,RouterProvider,createBrowserRouter,createRoutesFromElements } from 'react-router-dom'
-import Mainlayout from './layouts/mainlayout'
+import Mainlayout from './layouts/Mainlayout'
 import AddNotePage from './pages/AddNotePage'
 import NoteDetailPage from './pages/NoteDetailPage'
 import EditNotePage from './pages/EditNotePage'
